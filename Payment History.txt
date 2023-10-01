@@ -1,0 +1,12 @@
+#Bought item name: Lays
+Total quantity: 6 pcs
+Total Bill: 300
+Money paid: 500 Taka
+Returned amount: 200 Taka
+
+#Bought item name: Energy
+Total quantity: 3 pcs
+Total Bill: 45
+Money paid: 50 Taka
+Returned amount: 5 Taka
+
